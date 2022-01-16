@@ -13,3 +13,4 @@
 - Property Kullanımı
 - Miras Kullanımı
 - Kapsülleme
+Microsoft Visual Studio 2022 sürümü ile Yapıldığı için Program Classı vs. gözükmüyor
